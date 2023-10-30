@@ -2,8 +2,6 @@
 
 **Alumnos**: Paz Moreno, Rodolfo Meroi.
 
----
-
 # Problemática
 
 Se pide realizar un sistema de riego automatizado en base a la temperatura, humedad y cantidad de luz que reciben las plantas.
@@ -32,7 +30,7 @@ Para medir la humedad decidimos usar un **sensor de humedad del suelo** cuyo vol
 
 Si la humedad es menor al 80% se enciende el motor que simula el riego.
 
-Para detectar la luz elegimos una ****\*\*****fotorresistencia****\*\*****, un sensor cuya resistencia varía según la cantidad de luz que detecte. Conectamos el sensor a otro puerto analógico y mapeamos su valor en un rango de 0-100.
+Para detectar la luz elegimos una **fotorresistencia**, un sensor cuya resistencia varía según la cantidad de luz que detecte. Conectamos el sensor a otro puerto analógico y mapeamos su valor en un rango de 0-100.
 
 Cuando la resistencia sea menor a 50 se encenderá la bombilla.
 
