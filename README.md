@@ -32,7 +32,7 @@ Si la humedad es menor al 80% se enciende el motor que simula el riego.
 
 Para detectar la luz elegimos una **fotorresistencia**, un sensor cuya resistencia varía según la cantidad de luz que detecte. Conectamos el sensor a otro puerto analógico y mapeamos su valor en un rango de 0-100.
 
-Cuando la resistencia sea menor a 50 se encenderá la bombilla.
+Cuando la resistencia sea menor a 50 se encenderá el led.
 
 Por último, decidimos agregar una **pantalla lcd 16x2** para mostrarle al usuario los valores de temperatura y humedad.
 
