@@ -39,3 +39,5 @@ Por último, decidimos agregar una **pantalla lcd 16x2** para mostrarle al usuar
 # Circuito
 
 ![Untitled](images/circuit.jpeg)
+
+[Link Tinkercad](https://www.tinkercad.com/things/fY608tmlRse?sharecode=k268-rhFlE1D8nv-Bt2XuAGcgQ_irOZCZmJAFGdMfyQ)
