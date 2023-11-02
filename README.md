@@ -36,6 +36,7 @@ Cuando la resistencia sea menor a 50 se encenderá el led.
 
 Por último, decidimos agregar una **pantalla lcd 16x2** para mostrarle al usuario los valores de temperatura y humedad.
 
+Una vez que terminamos de programar todo el código lo volcamos sobre el IDE de Arduino y lo cargamos a nuestra placa.
 # Circuito
 
 ![Untitled](images/circuit.jpeg)
