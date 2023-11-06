@@ -37,8 +37,18 @@ Cuando la resistencia sea menor a 50 se encenderá el led.
 Por último, decidimos agregar una **pantalla lcd 16x2** para mostrarle al usuario los valores de temperatura y humedad.
 
 Una vez que terminamos de programar todo el código lo volcamos sobre el IDE de Arduino y lo cargamos a nuestra placa.
+# Problemas encontrados
+
+Uno de los problemas que tuvimos a la hora de armar el circuito en clase fue la elección de los leds, al principio utilizamos un led que parecía no funcionar pero que luego nos dimos cuenta de que era infrarrojo, por lo que decidimos cambiarlo a un led rgb.
+
+Otro problema que tuvimos fue que a la hora de conectar la pantalla lcd vimos que la temperatura era negativa, esto era debido a que en tinkercad utilizamos el sensor TMP36 y en el armado del circuito físico utilizamos el sensor TMP35, ambos sensores manejan rangos de voltaje distinto, por lo que tuvimos que ajustarlo.
 # Circuito
 
-![Untitled](images/circuit.jpeg)
+![circuit](images/circuit.jpeg)
 
 [Link Tinkercad](https://www.tinkercad.com/things/fY608tmlRse?sharecode=k268-rhFlE1D8nv-Bt2XuAGcgQ_irOZCZmJAFGdMfyQ)
+# Circuito físico
+
+![circuit2](images/circuit_2.jpeg)
+
+![lcd](images/lcd_display.jpeg)
