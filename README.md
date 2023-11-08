@@ -70,3 +70,7 @@ Otro problema que tuvimos fue que a la hora de conectar la pantalla lcd vimos qu
 ![circuit2](images/circuit_2.jpeg)
 
 ![lcd](images/lcd_display.jpeg)
+
+# Conclusión
+
+Este proyecto nos mostró el lado de la informática que nos permite programar, diseñar e implementar soluciones tecnológicas de manera práctica y simple. Tinkercad nos brindó la oportunidad de probar sin riesgo a comprometer los componentes, comprendiéndolos más a fondo y conociendo sus utilidades. Al finalizar el trabajo, obtener un vistazo de este mundo nos motiva a profundizar nuestros conocimientos y explorar nuevas posibilidades.
