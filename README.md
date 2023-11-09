@@ -2,6 +2,10 @@
 
 **Alumnos**: Paz Moreno, Rodolfo Meroi.
 
+# Introducción
+
+En este informe, te guiaremos a través del proceso de armar un sistema de riego automatizado utilizando código y componentes en Tinkercad. Además, compartiremos algunas pruebas realizadas con componentes reales. Exploraremos cómo la tecnología se convierte en tu aliada para resolver problemas diarios, centrándonos en la emocionante experiencia de crear este sistema desde cero.
+
 # Problemática
 
 Se pide realizar un sistema de riego automatizado en base a la temperatura, humedad y cantidad de luz que reciben las plantas.
